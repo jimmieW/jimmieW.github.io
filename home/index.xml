@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Jimmie West</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Jimmie West</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Biography R&amp;amp;D developer at Configura with more than 10 years experience of professional software development. Specialized in visualization.
+Easy going, humble and hard working but still serious programmer who loves providing solutions that have large impact for developers and end users.
+Believes that programming is all about trade offs and chosing the right trade offs is a combination of deep thinking, experience and intuition.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Professional</title>
+      <link>/home/professional/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/professional/</guid>
+      <description>Back in 2008 I started working at a company called Configura. Around ten years later I have learnt alot and had the chance to work with some brilliant people.
+Below is a list of some of the things I have been working on, either by myself or in a small team:
+ Creating a scene graph API and graphics file format called CmSym. Integration of REDsdk in CET Designer. Creating an API to define high level materials.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
