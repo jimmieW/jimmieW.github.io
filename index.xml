@@ -52,7 +52,7 @@
 &lt;li&gt;How setup a deferred rendering pipeline?&lt;/li&gt;
 &lt;li&gt;How to integrate the &lt;a href=&#34;http://bulletphysics.org/wordpress/&#34; target=&#34;_blank&#34;&gt;Bullet&lt;/a&gt; physics API into the engine?&lt;/li&gt;
 &lt;li&gt;How to integrate FMOD into the engine?&lt;/li&gt;
-&lt;li&gt;How to write a modular build system using Make build different version of the engine &lt;sup&gt;32&lt;/sup&gt;&amp;frasl;&lt;sub&gt;64&lt;/sub&gt;-bit/debug/release etc.&lt;/li&gt;
+&lt;li&gt;How to write a modular build system using Make build different version of the engine 32 / 64-bit and debug / release etc.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;At the time of writing there is just a single application that uses the Pixleon Engine - Fatal Friction.&lt;/p&gt;
