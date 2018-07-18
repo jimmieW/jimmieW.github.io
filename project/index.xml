@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Fatal Friction</title>
       <link>/project/fatal-friction/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0200</pubDate>
       
       <guid>/project/fatal-friction/</guid>
       <description>A game about taking control over a ball and mastering friction to avoid a fatal outcome.
@@ -31,7 +31,7 @@ So would I consider the game finished? Not really, but it is playable and I aim 
       <guid>/project/pixleon-engine/</guid>
       <description>The Pixleon Engine is a game engine written in C++ with focus on 3D-games with physics.
 The main motivation behind building it was to learn more about software development and game engine development in particular. For instance, I wanted to answer:
- How to decopuple different parts of a game engine? How to produce an interface from dlls that can be re-used in different games or interactive experiences? How setup a deferred rendering pipeline?</description>
+ How to decopuple different parts of a game engine? How to organize code into proper folders to help maintain decoupling? How to produce an interface from dlls that can be re-used in different games or interactive experiences?</description>
     </item>
     
   </channel>

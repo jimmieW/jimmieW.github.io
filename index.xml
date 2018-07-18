@@ -11,19 +11,9 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Fatal Friction</title>
       <link>/project/fatal-friction/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0200</pubDate>
       
       <guid>/project/fatal-friction/</guid>
       <description>&lt;p&gt;A game about taking control over a ball and mastering friction to avoid a fatal outcome.&lt;/p&gt;
@@ -48,14 +38,17 @@
 
 &lt;ul&gt;
 &lt;li&gt;How to decopuple different parts of a game engine?&lt;/li&gt;
+&lt;li&gt;How to organize code into proper folders to help maintain decoupling?&lt;/li&gt;
 &lt;li&gt;How to produce an interface from dlls that can be re-used in different games or interactive experiences?&lt;/li&gt;
-&lt;li&gt;How setup a deferred rendering pipeline?&lt;/li&gt;
 &lt;li&gt;How to integrate the &lt;a href=&#34;http://bulletphysics.org/wordpress/&#34; target=&#34;_blank&#34;&gt;Bullet&lt;/a&gt; physics API into the engine?&lt;/li&gt;
-&lt;li&gt;How to integrate FMOD into the engine?&lt;/li&gt;
-&lt;li&gt;How to write a modular build system using Make build different version of the engine 32 / 64-bit and debug / release etc.&lt;/li&gt;
+&lt;li&gt;How to integrate &lt;a href=&#34;https://www.fmod.com/&#34; target=&#34;_blank&#34;&gt;FMOD&lt;/a&gt; into the engine?&lt;/li&gt;
+&lt;li&gt;How to write a modular build system using GNU Make to build different version of the engine 32- or 64-bit and debug/release etc?&lt;/li&gt;
+&lt;li&gt;How to expose an easy to use game making API without loosing flexibility?&lt;/li&gt;
+&lt;li&gt;How to setup a deferred rendering pipeline?&lt;/li&gt;
+&lt;li&gt;How to integrate a SSAO algorithm?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;At the time of writing there is just a single application that uses the Pixleon Engine - Fatal Friction.&lt;/p&gt;
+&lt;p&gt;At the time of writing there is just a single application that uses the Pixleon Engine - &lt;a href=&#34;/project/fatal-friction/&#34;&gt;Fatal Friction&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
