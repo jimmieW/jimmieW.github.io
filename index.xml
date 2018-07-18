@@ -26,7 +26,14 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/project/fatal-friction/</guid>
-      <description></description>
+      <description>&lt;p&gt;A game about taking control over a ball and mastering friction to avoid a fatal outcome.&lt;/p&gt;
+
+&lt;p&gt;The game was created in order to drive the development of the Pixleon Engine. Another important aspect of developing this game was to actually finish a game. Sounds easy but as it turns out, it is quite hard.&lt;/p&gt;
+
+&lt;p&gt;So would I consider the game finished? Not really, but it is playable and I aim to iterate on it until I can proudly present a 1.0 version of the game.&lt;/p&gt;
+
+&lt;p&gt;Currently the game is only available for the windows platform. If you want to test an early version of the game you can download it here: &lt;a href=&#34;https://github.com/jimmieW/jimmieW.github.io/releases/download/Fatal-Friction-0.1.0/Fatal.Friction.zip&#34; target=&#34;_blank&#34;&gt;Fatal Friction 0.1.0&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -35,7 +42,20 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/project/pixleon-engine/</guid>
-      <description>&lt;p&gt;This engine was developed..&lt;/p&gt;
+      <description>&lt;p&gt;The Pixleon Engine is a game engine written in C++ with focus on 3D-games with physics.&lt;/p&gt;
+
+&lt;p&gt;The main motivation behind building it was to learn more about software development and game engine development in particular. For instance, I wanted to answer:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How to decopuple different parts of a game engine?&lt;/li&gt;
+&lt;li&gt;How to produce an interface from dlls that can be re-used in different games or interactive experiences?&lt;/li&gt;
+&lt;li&gt;How setup a deferred rendering pipeline?&lt;/li&gt;
+&lt;li&gt;How to integrate the &lt;a href=&#34;http://bulletphysics.org/wordpress/&#34; target=&#34;_blank&#34;&gt;Bullet&lt;/a&gt; physics API into the engine?&lt;/li&gt;
+&lt;li&gt;How to integrate FMOD into the engine?&lt;/li&gt;
+&lt;li&gt;How to write a modular build system using Make build different version of the engine &lt;sup&gt;32&lt;/sup&gt;&amp;frasl;&lt;sub&gt;64&lt;/sub&gt;-bit/debug/release etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;At the time of writing there is just a single application that uses the Pixleon Engine - Fatal Friction.&lt;/p&gt;
 </description>
     </item>
     

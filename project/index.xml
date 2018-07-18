@@ -18,7 +18,9 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/project/fatal-friction/</guid>
-      <description></description>
+      <description>A game about taking control over a ball and mastering friction to avoid a fatal outcome.
+The game was created in order to drive the development of the Pixleon Engine. Another important aspect of developing this game was to actually finish a game. Sounds easy but as it turns out, it is quite hard.
+So would I consider the game finished? Not really, but it is playable and I aim to iterate on it until I can proudly present a 1.</description>
     </item>
     
     <item>
@@ -27,7 +29,9 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/project/pixleon-engine/</guid>
-      <description>This engine was developed..</description>
+      <description>The Pixleon Engine is a game engine written in C++ with focus on 3D-games with physics.
+The main motivation behind building it was to learn more about software development and game engine development in particular. For instance, I wanted to answer:
+ How to decopuple different parts of a game engine? How to produce an interface from dlls that can be re-used in different games or interactive experiences? How setup a deferred rendering pipeline?</description>
     </item>
     
   </channel>
