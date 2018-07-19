@@ -41,7 +41,7 @@
 &lt;li&gt;How to organize code into proper folders to help maintain decoupling?&lt;/li&gt;
 &lt;li&gt;How to produce an interface from dlls that can be re-used in different games or interactive experiences?&lt;/li&gt;
 &lt;li&gt;How to integrate the &lt;a href=&#34;http://bulletphysics.org/wordpress/&#34; target=&#34;_blank&#34;&gt;Bullet&lt;/a&gt; physics API into the engine?&lt;/li&gt;
-&lt;li&gt;How to integrate &lt;a href=&#34;https://www.fmod.com/&#34; target=&#34;_blank&#34;&gt;FMOD&lt;/a&gt; into the engine?&lt;/li&gt;
+&lt;li&gt;How to integrate the &lt;a href=&#34;https://www.fmod.com/&#34; target=&#34;_blank&#34;&gt;FMOD&lt;/a&gt; sound API into the engine?&lt;/li&gt;
 &lt;li&gt;How to write a modular build system using GNU Make to build different version of the engine 32- or 64-bit and debug/release etc?&lt;/li&gt;
 &lt;li&gt;How to expose an easy to use game making API without loosing flexibility?&lt;/li&gt;
 &lt;li&gt;How to setup a deferred rendering pipeline?&lt;/li&gt;
