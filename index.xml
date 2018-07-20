@@ -18,7 +18,13 @@
       <guid>/project/fatal-friction/</guid>
       <description>&lt;p&gt;A game about taking control over a ball and mastering friction to avoid a fatal outcome.&lt;/p&gt;
 
-&lt;p&gt;The game was created in order to drive the development of the Pixleon Engine. Another important aspect of developing this game was to actually finish a game. Sounds easy but as it turns out, it is quite hard.&lt;/p&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Yk7EJ2LTArg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br/&gt;
+The game was created in order to drive the development of the Pixleon Engine. Another important aspect of developing this game was to actually finish a game. Sounds easy but as it turns out, it is quite hard.&lt;/p&gt;
 
 &lt;p&gt;So would I consider the game finished? Not really, but it is playable and I aim to iterate on it until I can proudly present a 1.0 version of the game.&lt;/p&gt;
 
