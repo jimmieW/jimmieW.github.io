@@ -30,7 +30,7 @@ So would I consider the game finished? Not really, but it is playable and I aim 
       
       <guid>/project/pixleon-engine/</guid>
       <description>The Pixleon Engine is a game engine written in C++ with focus on 3D-games with physics.
-The main motivation behind building it was to learn more about software development and game engine development in particular. For instance, I wanted to answer:
+The main motivation behind building it was to learn more about software development in general and game engine development in particular. For instance, I wanted to answer:
  How to decopuple different parts of a game engine? How to organize code into proper folders to help maintain decoupling? How to produce an interface from dlls that can be re-used in different games or interactive experiences?</description>
     </item>
     

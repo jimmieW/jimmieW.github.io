@@ -40,7 +40,7 @@ The game was created in order to drive the development of the Pixleon Engine. An
       <guid>/project/pixleon-engine/</guid>
       <description>&lt;p&gt;The Pixleon Engine is a game engine written in C++ with focus on 3D-games with physics.&lt;/p&gt;
 
-&lt;p&gt;The main motivation behind building it was to learn more about software development and game engine development in particular. For instance, I wanted to answer:&lt;/p&gt;
+&lt;p&gt;The main motivation behind building it was to learn more about software development in general and game engine development in particular. For instance, I wanted to answer:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;How to decopuple different parts of a game engine?&lt;/li&gt;
@@ -49,6 +49,7 @@ The game was created in order to drive the development of the Pixleon Engine. An
 &lt;li&gt;How to integrate the &lt;a href=&#34;http://bulletphysics.org/wordpress/&#34; target=&#34;_blank&#34;&gt;Bullet&lt;/a&gt; physics API into the engine?&lt;/li&gt;
 &lt;li&gt;How to integrate the &lt;a href=&#34;https://www.fmod.com/&#34; target=&#34;_blank&#34;&gt;FMOD&lt;/a&gt; sound API into the engine?&lt;/li&gt;
 &lt;li&gt;How to write a modular build system using GNU Make to build different version of the engine 32- or 64-bit and debug/release etc?&lt;/li&gt;
+&lt;li&gt;How to setup Emacs to simplify compile/build etc.&lt;/li&gt;
 &lt;li&gt;How to expose an easy to use game making API without loosing flexibility?&lt;/li&gt;
 &lt;li&gt;How to setup a deferred rendering pipeline?&lt;/li&gt;
 &lt;li&gt;How to integrate a screen space effect shaders such as SSAO?&lt;/li&gt;
