@@ -24,6 +24,16 @@ So would I consider the game finished? Not really, but it is playable and I aim 
     </item>
     
     <item>
+      <title>Master thesis</title>
+      <link>/project/master-thesis/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/project/master-thesis/</guid>
+      <description>I did my master thesis at a company called Donya Labs (aquired by Microsoft in 2017). The goal of the project was to look into how Simplygon could take advantage of the parallel processing power of GPUs in order to speed up normal/color map baking.
+The result of the work can be found here: GPU-optimized generation of normal and color maps</description>
+    </item>
+    
+    <item>
       <title>Pixleon Engine</title>
       <link>/project/pixleon-engine/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
@@ -31,7 +41,7 @@ So would I consider the game finished? Not really, but it is playable and I aim 
       <guid>/project/pixleon-engine/</guid>
       <description>The Pixleon Engine is a game engine written in C++ with focus on 3D-games with physics.
 The main motivation behind building it was to learn more about software development in general and game engine development in particular. For instance, I wanted to answer:
- How to decopuple different parts of a game engine? How to organize code into proper folders to help maintain decoupling? How to produce an interface from dlls that can be re-used in different games or interactive experiences?</description>
+ How to decouple different parts of a game engine? How to organize code into proper folders to help maintain decoupling? How to produce an interface from dlls that can be re-used in different games or interactive experiences?</description>
     </item>
     
   </channel>
