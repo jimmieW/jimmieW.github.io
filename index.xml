@@ -41,7 +41,7 @@ The game was created in order to drive the development of the Pixleon Engine. An
       <description>&lt;p&gt;I did my master thesis at a company called Donya Labs (aquired by Microsoft in 2017).
 The goal of the project was to look into how &lt;a href=&#34;https://www.simplygon.com/&#34; target=&#34;_blank&#34;&gt;Simplygon&lt;/a&gt; could take advantage of the parallel processing power of GPUs in order to speed up normal/color map baking.&lt;/p&gt;
 
-&lt;p&gt;The result of the work can be found here: &lt;a href=&#34;https://github.com/jimmieW/jimmieW.github.io/tree/master/project/master-thesis/master-thesis.pdf&#34; target=&#34;_blank&#34;&gt;GPU-optimized generation of normal and color maps&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The result of the work can be found here: &lt;a href=&#34;/project/master-thesis/master-thesis.pdf&#34; download=&#34;master-thesis&#34;&gt;GPU-optimized generation of normal and color maps&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
