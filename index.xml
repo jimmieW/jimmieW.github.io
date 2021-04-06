@@ -6,29 +6,28 @@
     <description>Recent content in Jimmie West on Jimmie West</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2021</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Fatal Friction</title>
-      <link>/project/fatal-friction/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 +0200</pubDate>
+      <title>Marbleous Blocks</title>
+      <link>/project/marbleous-blocks/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0200</pubDate>
       
-      <guid>/project/fatal-friction/</guid>
-      <description>&lt;p&gt;A game about taking control over a ball and mastering friction to avoid a fatal outcome.&lt;/p&gt;
+      <guid>/project/marbleous-blocks/</guid>
+      <description>&lt;p&gt;Marbleous Blocks is a point &amp;amp; click, physics based, 3D-puzzle game with a retro vibe.&lt;/p&gt;
+
+&lt;p&gt;The game was developed in order to drive the development of the Pixleon Engine and learn more about game development, including the release process.&lt;/p&gt;
 
 &lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/Yk7EJ2LTArg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/l20DGhKEiUA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;br/&gt;
-The game was created in order to drive the development of the Pixleon Engine. Another important aspect of developing this game was to actually finish a game. Sounds easy but as it turns out, it is quite hard.&lt;/p&gt;
+&lt;br/&gt;&lt;/p&gt;
 
-&lt;p&gt;So would I consider the game finished? Not really, but it is playable and I aim to iterate on it until I can proudly present a 1.0 version of the game.&lt;/p&gt;
-
-&lt;p&gt;Currently the game is only available for the windows platform. If you want to test an early version of the game you can download it here: &lt;a href=&#34;https://github.com/jimmieW/jimmieW.github.io/releases/download/Fatal-Friction-0.1.1/Fatal.Friction.0.1.1.zip&#34; target=&#34;_blank&#34;&gt;Fatal Friction&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The game was release on Steam in January 2021. For more information please visit: &lt;a href=&#34;https://store.steampowered.com/app/1335700/Marbleous_Blocks/&#34; target=&#34;_blank&#34;&gt;https://store.steampowered.com/app/1335700/Marbleous_Blocks/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
